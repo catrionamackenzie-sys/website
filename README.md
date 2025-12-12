@@ -9,8 +9,8 @@
 <p>Here is an ordinary paragraph  
 and now I jumped a line by using double space</p>
 
-**bold text**
-__bold__
+<p>**bold text**
+__bold__</p>
 Cate *is* great
 
 This text is ***really important***
